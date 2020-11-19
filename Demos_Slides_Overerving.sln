@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Overerving_MethodHiding",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.Voorbeeld_Virtual_Override", "Voorbeeld_Virtual_Override\5.Voorbeeld_Virtual_Override.csproj", "{7E81447E-7799-47EB-B67F-906CD8B4D041}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_AfgeleideKlassenVanPersoon", "Demo_AfgeleideKlassenVanPersoon\Demo_AfgeleideKlassenVanPersoon.csproj", "{3A15BE2B-D463-4E5E-B481-AF7DCD9FB245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_AfgeleideKlassenVanFiguur", "Demo_AfgeleideKlassenVanFiguur\Demo_AfgeleideKlassenVanFiguur.csproj", "{A0A6DC7F-A4E5-4377-B89C-2F7E01F5BC89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{7E81447E-7799-47EB-B67F-906CD8B4D041}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E81447E-7799-47EB-B67F-906CD8B4D041}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E81447E-7799-47EB-B67F-906CD8B4D041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A15BE2B-D463-4E5E-B481-AF7DCD9FB245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A15BE2B-D463-4E5E-B481-AF7DCD9FB245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A15BE2B-D463-4E5E-B481-AF7DCD9FB245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A15BE2B-D463-4E5E-B481-AF7DCD9FB245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A6DC7F-A4E5-4377-B89C-2F7E01F5BC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A6DC7F-A4E5-4377-B89C-2F7E01F5BC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A6DC7F-A4E5-4377-B89C-2F7E01F5BC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A6DC7F-A4E5-4377-B89C-2F7E01F5BC89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
