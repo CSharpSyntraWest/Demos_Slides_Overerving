@@ -3,6 +3,18 @@ using System.Collections.Generic;
 
 namespace Demo_AfgeleideKlassenVanFiguur
 {
+    /* Oefening Afgeleide klasse Vierkant van Figuur maken
+       *Vul onderstaande code aan:
+        Maak een afgeleide klasse Vierkant van de klasse Figuur
+        Voeg een public Auto-property Zijde toe (double)
+
+        Maak in de Main() een variabele vierkant1 van type Vierkant en geef deze de kleur “Wit” en Zijde = 2.5
+
+        Maak in de Main() een variable figuur van type Figuur en zet hierin een object van klasse Vierkant met kleur “Paars” en zijd = 1.5
+        Voeg vierkant1 en figuur toe aan tekening1
+        Roep de methode PrintTekening aan van tekening1
+
+     */
     class Tekening
     {
         private List<Figuur> _figuren; //standaar is _figuren null
